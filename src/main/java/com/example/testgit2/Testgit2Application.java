@@ -8,6 +8,7 @@ public class Testgit2Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Testgit2Application.class, args);
+        System.out.println();
     }
 
 }
